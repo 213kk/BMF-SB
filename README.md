@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Sans Selfbot +250 cmds
+  BMF Selfbot
 </h1>
 
 
@@ -66,4 +66,4 @@ This is made by me but there's a lot of bug :(
 
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
-- [Sans](https://github.com/002-sans)
+- [Sans](https://github.com/213kk/)
